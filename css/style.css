@@ -1,5 +1,5 @@
 /* ================================= 
-  Element Styles by Art.em
+  Element Styles
 ==================================== */
 
 * {
@@ -24,6 +24,9 @@ h1 {
 }
 h2 {
   margin-top: 0;
+}
+h5{
+  color: red;
 }
 p {
   font-size: 1.1em;
